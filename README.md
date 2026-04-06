@@ -12,17 +12,30 @@
 
   ## Tech Stack
 
-  **Languages:** C# · JavaScript · TypeScript · Python · C++ · PHP
+  **Languages**
 
-  **Frameworks & Platforms:** .NET · ASP.NET Core · Entity Framework Core
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-  **Cloud & DevOps:** Azure Web Apps · Azure Functions · Container Apps · Azure DevOps CI/CD · Terraform · ARM Templates · Virtual Networks
+  **Frameworks & Platforms**
+
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+  **Cloud & DevOps**
+
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
   ## GitHub Stats
 
-  ![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherenriquez&show_icons=true&theme=default&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherenriquez&layout=compact&hide_border=true)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=christopherenriquez&hide_border=true)
 
   ## Connect
 

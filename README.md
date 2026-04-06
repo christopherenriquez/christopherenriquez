@@ -22,8 +22,8 @@
   | Company | Role | Domain |
   |---------|------|--------|
   | **MoneyMe** | Senior Software Engineer & Team Lead | Fintech — Lending & Collections |
-  | **Emerson** | Software Engineer | Industrial — Distributed Control Systems |
-  | **Kinpo Electronics** | Software Engineer | R&D — Computer Robotics |
+  | **Emerson** | Mid Software Engineer | Industrial — Distributed Control Systems |
+  | **Kinpo Electronics** | Junior Software Engineer | R&D — Computer Robotics |
 
   ## Tech Stack
 
